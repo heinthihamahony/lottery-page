@@ -186,7 +186,7 @@ export function SuperCard() {
             7020000<span className="text-yellow-400">$</span>
           </p>
           <p className="text-gray-400">Withdrawal Balance</p>
-          <button className=" bg-[#298afb] py-2 px-4 rounded">
+          <button className=" bg-[#298afb] py-2 text-white px-4 rounded">
             Inventory Withdrawal
           </button>
         </CardBody>
